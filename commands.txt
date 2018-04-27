@@ -1,0 +1,27 @@
+git version
+git init
+git status
+git add .
+git commit -m "Initial commit"
+git status
+git log --oneline
+git add .
+git commit -m "modify l1.txt"
+git log --oneline
+git remote add origin https://github.com/Jakimovski/lab1.git
+git branch -a
+git push origin master
+git log --oneline
+git reset HEAD --hard
+git checkout -b logging
+git log
+git add .
+git commit -m "add log.txt"
+git status
+git log --oneline
+git push origin logging
+git checkout master
+git merge logging
+git push origin master
+git status
+git checkout -b allcomands
