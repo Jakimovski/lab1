@@ -1,0 +1,14 @@
+commit 9fca83fe67f47a97c2bca89097e7acef369d745d (HEAD -> logging, origin/master,
+ master)
+Author: matej.jakimovski@students.finki.ukim.mk <matej.jakimovski@students.finki
+.ukim.mk>
+Date:   Fri Apr 27 12:39:34 2018 +0200
+
+    modify l1.txt
+
+commit 432d288db85c5b322486e154f1c956ffa0d897a7
+Author: matej.jakimovski@students.finki.ukim.mk <matej.jakimovski@students.finki
+.ukim.mk>
+Date:   Fri Apr 27 12:38:38 2018 +0200
+
+    Initial commit
